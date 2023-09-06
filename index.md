@@ -5,3 +5,6 @@ Small Datum LLC provides consulting for databases with a focus on MySQL, RocksDB
 
 ## Contact
 [Contact Small Datum LLC](mailto:mark@smalldatum.net)
+
+## Privacy Policy
+[Policy](policy.md)
