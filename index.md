@@ -8,3 +8,6 @@ Small Datum LLC provides consulting for databases with a focus on MySQL, RocksDB
 
 ## Privacy Policy
 [Policy](priv_policy.md)
+
+## Services
+[See here](services.md) for information on the services we offer.
